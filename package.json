@@ -8,9 +8,20 @@
         "lint": "eslint ."
     },
     "dependencies": {
-        "react": "16.8.6",
-        "react-native": "0.60.3",
-        "ws": "^7.1.0"
+        "@react-native-community/cli": "^3.0.4",
+        "core-js": "^3.6.2",
+        "eslint-plugin-react": "^7.17.0",
+        "eslint-utils": "^1.4.3",
+        "handlebars": "^4.5.3",
+        "mem": "^6.0.1",
+        "metro": "^0.57.0",
+        "metro-config": "^0.57.0",
+        "metro-inspector-proxy": "^0.57.0",
+        "os-locale": "^4.0.0",
+        "react": "^16.9.0",
+        "react-native": "^0.61.5",
+        "ws": "^7.1.0",
+        "yargs": "^15.1.0"
     },
     "devDependencies": {
         "@babel/core": "7.5.4",
@@ -21,7 +32,7 @@
         "@types/react-native": "0.60.0",
         "@types/react-test-renderer": "16.8.2",
         "babel-jest": "24.8.0",
-        "eslint": "6.0.1",
+        "eslint": "^5.16.0",
         "jest": "24.8.0",
         "metro-react-native-babel-preset": "0.54.1",
         "react-test-renderer": "16.8.6",
