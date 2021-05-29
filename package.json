@@ -20,7 +20,7 @@
         "os-locale": "^4.0.0",
         "react": "^16.9.0",
         "react-native": "^0.61.5",
-        "ws": "^7.1.0",
+        "ws": "^7.4.6",
         "yargs": "^15.1.0"
     },
     "devDependencies": {
