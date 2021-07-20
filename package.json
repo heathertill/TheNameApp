@@ -19,7 +19,7 @@
         "metro-inspector-proxy": "^0.57.0",
         "os-locale": "^4.0.0",
         "react": "^16.9.0",
-        "react-native": "^0.61.5",
+        "react-native": "^0.62.3",
         "ws": "^7.1.0",
         "yargs": "^15.1.0"
     },
